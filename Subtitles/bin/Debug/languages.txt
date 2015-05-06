@@ -1,0 +1,53 @@
+af Afrikaans
+eu Basque
+bg Bulgarian
+ca Catalan
+ar-EG Arabic (Egypt)
+ar-JO Arabic (Jordan)
+ar-KW Arabic (Kuwait)
+ar-LB Arabic (Lebanon)
+ar-QA Arabic (Qatar)
+ar-AE Arabic (UAE)
+ar-MA Arabic (Morocco)
+ar-IQ Arabic (Iraq)
+ar-BH Arabic (Bahrain)
+ar-TN Arabic (Tunisia)
+cs Czech
+nl-NL Dutch
+en-AU English (Australia)
+en-CA English (Canada)
+en-IN English (India)
+en-GB English (UK)
+en-US English (US)
+fi Finnish
+fr-FR French
+gl Galician
+de-DE German
+hu Hungarian
+is Icelandic
+it-IT Italian
+id Indonesian
+ja Japanese
+ko Korean
+la Latin
+zh-CN Mandarin Chinese
+zh-TW Traditional Taiwan
+ms-MY Malaysian
+no-NO Norwegian
+pl Polish
+pt-PT Portuguese
+pt-BR Portuguese (Brasil)
+ro-RO Romanian
+ru Russian
+sr-SP Serbian
+sk Slovak
+es-AR Spanish (Argentina)
+es-CO Spanish (Colombia)
+es-CR Spanish (Costa Rica)
+es-DO Spanish (Dominican Republic)
+es-HN Spanish (Honduras)
+es-MX Spanish(Mexico)
+es-ES Spanish(Spain)
+es-UY Spanish(Uruguay)
+sv-SE Swedish
+tr Turkish
